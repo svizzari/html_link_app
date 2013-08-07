@@ -1,0 +1,95 @@
+{
+    "author": {
+		"name" :"Zendesk",
+	    "email": "support@zendesk.com"
+     },
+   "frameworkVersion": "0.5",
+   "location":"ticket_sidebar",
+   "defaultLocale": "en",
+   "private": true,
+   "singleInstall": false,
+   "parameters": [
+    {
+      "name": "link_1",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "link_1_text",
+      "type": "text",
+      "required": true
+    },
+    {
+      "name": "link_2",
+      "type": "text"
+    },
+    {
+      "name": "link_2_text",
+      "type": "text"
+    },
+    {
+      "name": "link_3",
+      "type": "text"
+    },
+    {
+      "name": "link_3_text",
+      "type": "text"
+    },
+    {
+      "name": "link_4",
+      "type": "text"
+    },
+    {
+      "name": "link_4_text",
+      "type": "text"
+    },
+    {
+      "name": "link_5",
+      "type": "text"
+    },
+    {
+      "name": "link_5_text",
+      "type": "text"
+    },
+    {
+      "name": "link_6",
+      "type": "text"
+    },
+    {
+      "name": "link_6_text",
+      "type": "text"
+    },
+    {
+      "name": "link_7",
+      "type": "text"
+    },
+    {
+      "name": "link_7_text",
+      "type": "text"
+    },
+    {
+      "name": "link_8",
+      "type": "text"
+    },
+    {
+      "name": "link_8_text",
+      "type": "text"
+    },
+    {
+      "name": "link_9",
+      "type": "text"
+    },
+    {
+      "name": "link_9_text",
+      "type": "text"
+    },
+    {
+      "name": "link_10",
+      "type": "text"
+    },
+    {
+      "name": "link_10_text",
+      "type": "text"
+    }
+  ]
+}

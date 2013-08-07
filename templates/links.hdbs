@@ -1,0 +1,17 @@
+<section data-main>
+</br>
+  <div id='links_section1'>
+    <a href="{{setting "link_1"}}" target="_blank">{{setting "link_1_text"}}</a></br>
+    <a href="{{setting "link_2"}}" target="_blank">{{setting "link_2_text"}}</a></br>
+    <a href="{{setting "link_3"}}" target="_blank">{{setting "link_3_text"}}</a></br>
+    <a href="{{setting "link_4"}}" target="_blank">{{setting "link_4_text"}}</a></br>
+    <a href="{{setting "link_5"}}" target="_blank">{{setting "link_5_text"}}</a></br>
+  </div>
+    <div id='links_section2'>
+    <a href="{{setting "link_6"}}" target="_blank">{{setting "link_6_text"}}</a></br>
+    <a href="{{setting "link_7"}}" target="_blank">{{setting "link_7_text"}}</a></br>
+    <a href="{{setting "link_8"}}" target="_blank">{{setting "link_8_text"}}</a></br>
+    <a href="{{setting "link_9"}}" target="_blank">{{setting "link_9_text"}}</a></br>
+    <a href="{{setting "link_10"}}" target="_blank">{{setting "link_10_text"}}</a></br>
+  </div>
+</section>
